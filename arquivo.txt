@@ -1,6 +1,1 @@
 teste
-<<<<<<< HEAD
-metallica
-=======
-rai
->>>>>>> 3b8b920c510dbaf12166e37667e1779f2d9b45f8
